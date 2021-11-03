@@ -1,0 +1,93 @@
+html{
+    background-color: rgb(235, 158, 158);
+}
+#pc{
+    display: flex;
+    
+    justify-content: space-around;
+    background-color: rgb(136, 136, 136);
+
+}
+#iphone{
+    display: flex;
+   
+    justify-content: space-around;
+    background-color: rgb(136, 136, 136);
+
+}
+#iphone1{
+    display: flex;
+    
+    justify-content: space-around;
+    background-color: rgb(136, 136, 136);
+
+
+}
+
+#x {
+    background-color: white;
+    width: 100vh;
+}
+ul{
+    display: inline;
+    text-decoration: none;
+}
+.heartbtn{
+    width: 8em;
+    height: 2.5em;
+    position: relative;
+    font-size: 1.2em;
+    background-color: rgb(206, 113, 113);
+    height: 150px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+    
+}
+#b{
+    background: transparent;
+    outline: none;
+    border: none;
+    color: rgb(0, 0, 0);
+    font-size: 1em;
+}
+
+
+#price {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#price1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#price2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+
+}
+
+.red1{
+   
+  position: relative;
+  top: 50px;
+}
+.fa-heart-o {
+    color: red;
+    cursor: pointer;
+  }
+  
+  .fa-heart {
+    color: red;
+    cursor: pointer;
+  }
+  
+  
+
